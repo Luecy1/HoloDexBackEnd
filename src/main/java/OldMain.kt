@@ -10,8 +10,6 @@ val isCi = (getEnv("CI") == "true")
 
 fun main() {
 
-    getTwitterFactory()
-
     val twitter = getTwitterFactory()
 
     val hololiveNames = members

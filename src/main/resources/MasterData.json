@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "ときのそら",
+    "generation": [
+      "1"
+    ],
+    "basicInfo": "誕生日：5月15日\n身長：160cm\nファンネーム：そらとも\nイラストレーター：おるだん",
+    "channelId": "UCp6993wxpyDPHUpavwDFqgg",
+    "fanArtHashTag": "#soraArt"
+  },
+  {
+    "id": 2,
+    "name": "ロボ子さん",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1264698587016908800/tmoK1M0n_400x400.jpg",
+    "generation": [
+      "1"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "さくらみこ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1258747350031294466/MF8L4ecA_400x400.jpg",
+    "generation": [
+      "1"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "星街すいせい",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1223272813529710592/YEozHgbm_400x400.jpg",
+    "generation": [
+      "1"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "白神フブキ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271711031396495360/Dqppp-nO_400x400.jpg",
+    "generation": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "夏色まつり",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1263142648845500418/ombaSaNG_400x400.jpg",
+    "generation": [
+      "2"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "赤井はあと",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1250097544685686784/EHszs8rv_400x400.jpg",
+    "generation": [
+      "2"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "湊あくあ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1243447833170067456/rG_KKOcw_400x400.jpg",
+    "generation": [
+      "3"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "大空スバル",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1254546497237954560/fKjCG683_400x400.jpg",
+    "generation": [
+      "3"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "犬神ミオ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1256052407676497920/ChxH1pzZ_400x400.jpg",
+    "generation": [
+      "4"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "猫又おかゆ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271613451572404224/W7kjt_ww_400x400.jpg",
+    "generation": [
+      "4"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "犬神ころね",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1262339742202355718/Y7p79zx4_400x400.jpg",
+    "generation": [
+      "4"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "宝鐘マリン",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1258404634885935105/BN7PIVtS_400x400.jpg",
+    "generation": [
+      "5"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "兎田ぺこら",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271905822482690048/0iGaW5ZE_400x400.jpg",
+    "generation": [
+      "5"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "潤羽るしあ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1245759973277069313/35ySYh3F_400x400.jpg",
+    "generation": [
+      "5"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "桐生ココ",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1253659421269389313/Jmm631kV_400x400.jpg",
+    "generation": [
+      "6"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "天音かなた",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1263309015661965313/E34lYRNA_400x400.jpg",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "デビュー日：2019年12月27日\n誕生日：4月22日\n身長：149cm\nファンネーム：へい民\nイラストレーター：おしおしお",
+    "channelId": "UCZlDXzGoo7d44bwdNObFacg",
+    "fanArtHashTag": "#かなたーと"
+  }
+]
