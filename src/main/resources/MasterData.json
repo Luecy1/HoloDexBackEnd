@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "ときのそら",
     "twitterScreenName": "tokino_sora",
     "generation": [
@@ -11,15 +10,264 @@
     "fanArtHashTag": "#soraArt"
   },
   {
-    "id": 17,
+    "name": "ロボ子さん",
+    "twitterScreenName": "robocosan",
+    "generation": [
+      "1"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "さくらみこ",
+    "twitterScreenName": "sakuramiko35",
+    "generation": [
+      "1"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "星街すいせい",
+    "twitterScreenName": "suisei_hosimati",
+    "generation": [
+      "1"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "夜空メル",
+    "twitterScreenName": "yozoramel",
+    "generation": [
+      "2"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "アキ・ローゼンタール",
+    "twitterScreenName": "akirosenthal",
+    "generation": [
+      "2"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "赤井はあと",
+    "twitterScreenName": "akaihaato",
+    "generation": [
+      "2"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "白神フブキ",
+    "twitterScreenName": "shirakamifubuki",
+    "generation": [
+      "2",
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "夏色まつり",
+    "twitterScreenName": "natsuiromatsuri",
+    "generation": [
+      "2"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "湊あくあ",
+    "twitterScreenName": "minatoaqua",
+    "generation": [
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "紫咲シオン",
+    "twitterScreenName": "murasakishionch",
+    "generation": [
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "百鬼あやめ",
+    "twitterScreenName": "nakiriayame",
+    "generation": [
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "癒月ちょこ",
+    "twitterScreenName": "yuzukichococh",
+    "generation": [
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "大空スバル",
+    "twitterScreenName": "oozorasubaru",
+    "generation": [
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "大神ミオ",
+    "twitterScreenName": "ookamimio",
+    "generation": [
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "猫又おかゆ",
+    "twitterScreenName": "nekomataokayu",
+    "generation": [
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "戌神ころね",
+    "twitterScreenName": "inugamikorone",
+    "generation": [
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "兎田ぺこら",
+    "twitterScreenName": "usadapekora",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "潤羽るしあ",
+    "twitterScreenName": "uruharushia",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "不知火フレア",
+    "twitterScreenName": "shiranuiflare",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "白銀ノエル",
+    "twitterScreenName": "shiroganenoel",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "宝鐘マリン",
+    "twitterScreenName": "houshoumarine",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
     "name": "天音かなた",
     "twitterScreenName": "amanekanatach",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1263309015661965313/E34lYRNA_400x400.jpg",
     "generation": [
       "6"
     ],
     "basicInfo": "デビュー日：2019年12月27日\n誕生日：4月22日\n身長：149cm\nファンネーム：へい民\nイラストレーター：おしおしお",
     "channelId": "UCZlDXzGoo7d44bwdNObFacg",
     "fanArtHashTag": "#かなたーと"
+  },
+  {
+    "name": "桐生ココ",
+    "twitterScreenName": "kiryucoco",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "角巻わため",
+    "twitterScreenName": "tsunomakiwatame",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "常闇トワ",
+    "twitterScreenName": "tokoyamitowa",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "name": "姫森ルーナ",
+    "twitterScreenName": "himemoriluna",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   }
 ]

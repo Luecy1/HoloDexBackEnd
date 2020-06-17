@@ -17,7 +17,7 @@ class Main(
 
         val outputHololiverList = list.mapIndexed { index, hololiver ->
             OutputHololiver(
-                hololiver.id,
+                (index + 1),
                 hololiver.name,
                 hololiver.twitterScreenName,
                 hololiveMenbers[index].profileImageURL.replaceBiggerSizeUrl().toHttps(),

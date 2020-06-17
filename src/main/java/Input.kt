@@ -5,7 +5,7 @@ import okio.Okio
 
 // TODO 全員分のデータを一度に作れないので、いったんOptional型にしている箇所あり
 data class InputHololiver(
-    val id: Int,
+    val id: Int?,
     val name: String,
     val twitterScreenName: String,
     val generation: List<String>,
