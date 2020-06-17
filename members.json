@@ -2,138 +2,326 @@
   {
     "id": 1,
     "name": "ときのそら",
+    "twitterScreenName": "tokino_sora",
     "imageUrl": "https://pbs.twimg.com/profile_images/1226480870048985090/nE0E3xVR_400x400.jpg",
     "generation": [
       "1"
-    ]
+    ],
+    "basicInfo": "誕生日：5月15日\n身長：160cm\nファンネーム：そらとも\nイラストレーター：おるだん",
+    "channelId": "UCp6993wxpyDPHUpavwDFqgg",
+    "fanArtHashTag": "#soraArt"
   },
   {
     "id": 2,
     "name": "ロボ子さん",
+    "twitterScreenName": "robocosan",
     "imageUrl": "https://pbs.twimg.com/profile_images/1264698587016908800/tmoK1M0n_400x400.jpg",
     "generation": [
       "1"
-    ]
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 3,
     "name": "さくらみこ",
+    "twitterScreenName": "sakuramiko35",
     "imageUrl": "https://pbs.twimg.com/profile_images/1258747350031294466/MF8L4ecA_400x400.jpg",
     "generation": [
       "1"
-    ]
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 4,
     "name": "星街すいせい",
+    "twitterScreenName": "suisei_hosimati",
     "imageUrl": "https://pbs.twimg.com/profile_images/1223272813529710592/YEozHgbm_400x400.jpg",
     "generation": [
       "1"
-    ]
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 5,
-    "name": "白神フブキ",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1271711031396495360/Dqppp-nO_400x400.jpg",
+    "name": "夜空メル",
+    "twitterScreenName": "yozoramel",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1215077610243293184/8fI56Cy__400x400.jpg",
     "generation": [
-      "2",
-      "4"
-    ]
+      "2"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 6,
-    "name": "夏色まつり",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1263142648845500418/ombaSaNG_400x400.jpg",
+    "name": "アキ・ローゼンタール",
+    "twitterScreenName": "akirosenthal",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1257105828680577024/9nE-Dzdd_400x400.jpg",
     "generation": [
       "2"
-    ]
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 7,
     "name": "赤井はあと",
+    "twitterScreenName": "akaihaato",
     "imageUrl": "https://pbs.twimg.com/profile_images/1250097544685686784/EHszs8rv_400x400.jpg",
     "generation": [
       "2"
-    ]
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 8,
-    "name": "湊あくあ",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1243447833170067456/rG_KKOcw_400x400.jpg",
+    "name": "白神フブキ",
+    "twitterScreenName": "shirakamifubuki",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271711031396495360/Dqppp-nO_400x400.jpg",
     "generation": [
-      "3"
-    ]
+      "2",
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 9,
-    "name": "大空スバル",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1254546497237954560/fKjCG683_400x400.jpg",
+    "name": "夏色まつり",
+    "twitterScreenName": "natsuiromatsuri",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1263142648845500418/ombaSaNG_400x400.jpg",
     "generation": [
-      "3"
-    ]
+      "2"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 10,
-    "name": "犬神ミオ",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1256052407676497920/ChxH1pzZ_400x400.jpg",
+    "name": "湊あくあ",
+    "twitterScreenName": "minatoaqua",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1243447833170067456/rG_KKOcw_400x400.jpg",
     "generation": [
-      "4"
-    ]
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 11,
-    "name": "猫又おかゆ",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1271613451572404224/W7kjt_ww_400x400.jpg",
+    "name": "紫咲シオン",
+    "twitterScreenName": "murasakishionch",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1202234540959264768/EnB5VIde_400x400.jpg",
     "generation": [
-      "4"
-    ]
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 12,
-    "name": "犬神ころね",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1262339742202355718/Y7p79zx4_400x400.jpg",
+    "name": "百鬼あやめ",
+    "twitterScreenName": "nakiriayame",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1269149772796932101/iF5APXIX_400x400.jpg",
     "generation": [
-      "4"
-    ]
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 13,
-    "name": "宝鐘マリン",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1258404634885935105/BN7PIVtS_400x400.jpg",
+    "name": "癒月ちょこ",
+    "twitterScreenName": "yuzukichococh",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1245514348136517632/UNKhupHi_400x400.jpg",
     "generation": [
-      "5"
-    ]
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 14,
-    "name": "兎田ぺこら",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1271905822482690048/0iGaW5ZE_400x400.jpg",
+    "name": "大空スバル",
+    "twitterScreenName": "oozorasubaru",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1254546497237954560/fKjCG683_400x400.jpg",
     "generation": [
-      "5"
-    ]
+      "3"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 15,
-    "name": "潤羽るしあ",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1245759973277069313/35ySYh3F_400x400.jpg",
+    "name": "大神ミオ",
+    "twitterScreenName": "ookamimio",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1256052407676497920/ChxH1pzZ_400x400.jpg",
     "generation": [
-      "5"
-    ]
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 16,
-    "name": "桐生ココ",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1253659421269389313/Jmm631kV_400x400.jpg",
+    "name": "猫又おかゆ",
+    "twitterScreenName": "nekomataokayu",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271613451572404224/W7kjt_ww_400x400.jpg",
     "generation": [
-      "6"
-    ]
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   },
   {
     "id": 17,
+    "name": "戌神ころね",
+    "twitterScreenName": "inugamikorone",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1262339742202355718/Y7p79zx4_400x400.jpg",
+    "generation": [
+      "4"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 18,
+    "name": "兎田ぺこら",
+    "twitterScreenName": "usadapekora",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271905822482690048/0iGaW5ZE_400x400.jpg",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 19,
+    "name": "潤羽るしあ",
+    "twitterScreenName": "uruharushia",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1245759973277069313/35ySYh3F_400x400.jpg",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 20,
+    "name": "不知火フレア",
+    "twitterScreenName": "shiranuiflare",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1245746068110766080/y9vBovLT_400x400.png",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 21,
+    "name": "白銀ノエル",
+    "twitterScreenName": "shiroganenoel",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1245203484997111808/cvkIEw5h_400x400.jpg",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 22,
+    "name": "宝鐘マリン",
+    "twitterScreenName": "houshoumarine",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1258404634885935105/BN7PIVtS_400x400.jpg",
+    "generation": [
+      "5"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 23,
     "name": "天音かなた",
+    "twitterScreenName": "amanekanatach",
     "imageUrl": "https://pbs.twimg.com/profile_images/1263309015661965313/E34lYRNA_400x400.jpg",
     "generation": [
       "6"
-    ]
+    ],
+    "basicInfo": "デビュー日：2019年12月27日\n誕生日：4月22日\n身長：149cm\nファンネーム：へい民\nイラストレーター：おしおしお",
+    "channelId": "UCZlDXzGoo7d44bwdNObFacg",
+    "fanArtHashTag": "#かなたーと"
+  },
+  {
+    "id": 24,
+    "name": "桐生ココ",
+    "twitterScreenName": "kiryucoco",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1253659421269389313/Jmm631kV_400x400.jpg",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 25,
+    "name": "角巻わため",
+    "twitterScreenName": "tsunomakiwatame",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1215911777038258176/nQ5JqxxD_400x400.jpg",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 26,
+    "name": "常闇トワ",
+    "twitterScreenName": "tokoyamitowa",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1271748055138570240/JKPyT_vG_400x400.jpg",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
+  },
+  {
+    "id": 27,
+    "name": "姫森ルーナ",
+    "twitterScreenName": "himemoriluna",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1262979393397288960/SighPowv_400x400.jpg",
+    "generation": [
+      "6"
+    ],
+    "basicInfo": "",
+    "channelId": "",
+    "fanArtHashTag": ""
   }
 ]
