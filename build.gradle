@@ -5,7 +5,7 @@ plugins {
     id 'application'
 }
 
-mainClassName = 'OldMainKt'
+mainClassName = 'MainKt'
 
 group 'org.example'
 version '1.0-SNAPSHOT'
