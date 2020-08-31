@@ -10,6 +10,6 @@ class InputTest {
 
         val list = input.read()
 
-        assertThat(list.last().name).isEqualTo("天音かなた")
+        assertThat(list.first().name).isEqualTo("ときのそら")
     }
 }
