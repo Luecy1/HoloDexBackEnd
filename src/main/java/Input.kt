@@ -49,18 +49,13 @@ class InputImpl : Input {
             .add(KotlinJsonAdapterFactory())
             .build().adapter<List<OutputHololiver>>(type)
 
+        // from local
         val file = File("public/members.json")
-
-        if (!file.exists()) {
-            return listOf()
-        }
 
         val publishedData = URL("https://luecy1.github.io/HoloDexBackEnd/members.json").readText()
 
         val restoreList = adapter.fromJson(publishedData)
 
-        // for debug
-        println(restoreList)
         return restoreList ?: listOf()
     }
 }
