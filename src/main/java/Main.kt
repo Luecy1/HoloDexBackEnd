@@ -7,26 +7,51 @@ class Main(
 
         val twitter = getTwitterFactory()
 
-        val list = input.read()
+        val hololiverListFromMasterData = input.read()
+        val hololiverFromMasterData = hololiverListFromMasterData.map {
+            it.twitterScreenName to it
+        }.toMap()
 
-        val hololiverIdList = list.map {
+        // restore data
+        val restoreData = input.restoreData().map {
+            it.twitterScreenName to it
+        }.toMap()
+
+        // for twitter api
+        val hololiverIdList = hololiverListFromMasterData.map {
             it.twitterScreenName
         }
 
-        val hololiveMenbers = twitter.lookupUsers(*hololiverIdList.toTypedArray())
+        val hololiverFromTwitter = twitter.lookupUsers(*hololiverIdList.toTypedArray()).map {
+            it.screenName to it
+        }.toMap()
 
-        val outputHololiverList = list.mapIndexed { index, hololiver ->
-            OutputHololiver(
-                (index + 1),
-                hololiver.name,
-                hololiver.twitterScreenName,
-                hololiveMenbers[index].profileImageURL.replaceBiggerSizeUrl().toHttps(),
-                hololiver.generation,
-                hololiver.basicInfo,
-                hololiver.channelId,
-                hololiver.fanArtHashTag
+        // merge twitter and master
+        var id = 0
+        val outputHololiverList = hololiverFromMasterData.map { (screenName, data) ->
+
+            val oldData = restoreData[screenName]!!
+
+            if (!hololiverFromTwitter.contains(screenName)) {
+                // if can not fetch twitter api
+                id++
+                return@map oldData
+            }
+
+            val hololiver = hololiverFromTwitter[screenName]!!
+
+            id++
+            return@map OutputHololiver(
+                id,
+                data.name,
+                data.twitterScreenName,
+                hololiver.profileImageURL.replaceBiggerSizeUrl().toHttps(),
+                data.generation,
+                data.basicInfo,
+                data.channelId,
+                data.fanArtHashTag,
             )
-        }
+        }.toList()
 
         output.write(outputHololiverList)
     }
