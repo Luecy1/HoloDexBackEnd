@@ -3,6 +3,7 @@ import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import okio.Okio
 import java.io.File
+import java.net.URL
 
 data class InputHololiver(
     val id: Int?,
@@ -54,9 +55,9 @@ class InputImpl : Input {
             return listOf()
         }
 
-        val source = Okio.buffer(Okio.source(file)).readUtf8()
+        val publishedData = URL("https://luecy1.github.io/HoloDexBackEnd/members.json").readText()
 
-        val restoreList = adapter.fromJson(source)
+        val restoreList = adapter.fromJson(publishedData)
 
         return restoreList ?: listOf()
     }
