@@ -2,6 +2,7 @@ import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import okio.Okio
+import java.io.File
 
 data class InputHololiver(
     val id: Int?,
@@ -14,7 +15,15 @@ data class InputHololiver(
 )
 
 interface Input {
+    /**
+     * Read from MasterData.json
+     */
     fun read(): List<InputHololiver>
+
+    /**
+     * Restore last Data
+     */
+    fun restoreData(): List<OutputHololiver>
 }
 
 class InputImpl : Input {
@@ -30,5 +39,25 @@ class InputImpl : Input {
         val json = adapter.fromJson(bufferedSource)
 
         return json!!
+    }
+
+    override fun restoreData(): List<OutputHololiver> {
+        val type = Types.newParameterizedType(List::class.java, OutputHololiver::class.java)
+
+        val adapter = Moshi.Builder()
+            .add(KotlinJsonAdapterFactory())
+            .build().adapter<List<OutputHololiver>>(type)
+
+        val file = File("public/members.json")
+
+        if (!file.exists()) {
+            return listOf()
+        }
+
+        val source = Okio.buffer(Okio.source(file)).readUtf8()
+
+        val restoreList = adapter.fromJson(source)
+
+        return restoreList ?: listOf()
     }
 }
