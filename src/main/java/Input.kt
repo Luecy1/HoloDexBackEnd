@@ -59,6 +59,8 @@ class InputImpl : Input {
 
         val restoreList = adapter.fromJson(publishedData)
 
+        // for debug
+        println(restoreList)
         return restoreList ?: listOf()
     }
 }
