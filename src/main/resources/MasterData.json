@@ -11,6 +11,16 @@
     "fanArtHashTag": "#soraArt"
   },
   {
+    "name": "AZKi",
+    "twitterScreenName": "AZKi_VDiVA",
+    "generation": [
+      "1"
+    ],
+    "basicInfo": "誕生日：7月1日\n身長：158cm\nファンネーム：開拓者\n3Dモデラー ：加速サトウ",
+    "channelId": "UC0TXe_LYZ4scaW2XMyi5_kw",
+    "fanArtHashTag": "#AZKiART"
+  },
+  {
     "id": 2,
     "name": "ロボ子さん",
     "twitterScreenName": "robocosan",
@@ -329,5 +339,16 @@
     "basicInfo": "デビュー日：2020年8月16日（日）\n誕生日：1月30日\n身長：153cm\nファンネーム：おまる座(座員さん)\nイラストレーター：こう ましろ",
     "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
     "fanArtHashTag": "#絵まる"
+  },
+  {
+    "id": 32,
+    "name": "ラプラス・ダークネス",
+    "twitterScreenName": "LaplusDarknesss",
+    "generation": [
+      "8"
+    ],
+    "basicInfo": "デビュー日：2021年11月26日\n誕生日：5月25日\n身長：139cm\nファンネーム：未定\nイラストレーター：三嶋くろね@mishima_kurone",
+    "channelId": "UCENwRMx5Yh42zWpzURebzTw",
+    "fanArtHashTag": ""
   }
 ]
