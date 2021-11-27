@@ -28,20 +28,21 @@ class Main(
 
         // merge twitter and master
         var id = 0
-        val outputHololiverList = hololiverFromMasterData.map { (screenName, data) ->
-
-            val oldData = restoreData[screenName]!!
+        val outputHololiverList = hololiverFromMasterData.mapNotNull { (screenName, data) ->
 
             if (!hololiverFromTwitter.contains(screenName)) {
-                // if can not fetch twitter api
+                // if can not fetch twitter api, use old data
                 id++
-                return@map oldData
+                return@mapNotNull restoreData[screenName] ?: run {
+                    println("screenName:$screenName is unavailable twitter and not exist old data")
+                    null
+                }
             }
 
             val hololiver = hololiverFromTwitter[screenName]!!
 
             id++
-            return@map OutputHololiver(
+            return@mapNotNull OutputHololiver(
                 id,
                 data.name,
                 data.twitterScreenName,
