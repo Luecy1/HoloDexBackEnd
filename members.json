@@ -230,18 +230,6 @@
   },
   {
     "id": 20,
-    "name": "潤羽るしあ",
-    "twitterScreenName": "uruharushia",
-    "imageUrl": "https://pbs.twimg.com/profile_images/1485036871826952192/rfqIJ2W0_400x400.jpg",
-    "generation": [
-      "5"
-    ],
-    "basicInfo": "デビュー日：2019年7月18日\n誕生日：1月22日\n身長：143cm\nファンネーム：ふぁんでっと\nイラストレーター：やすゆき",
-    "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
-    "fanArtHashTag": "#絵クロマンサー"
-  },
-  {
-    "id": 21,
     "name": "不知火フレア",
     "twitterScreenName": "shiranuiflare",
     "imageUrl": "https://pbs.twimg.com/profile_images/1459447923646042112/0UXz73jg_400x400.png",
@@ -253,7 +241,7 @@
     "fanArtHashTag": "#しらぬえ"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "白銀ノエル",
     "twitterScreenName": "shiroganenoel",
     "imageUrl": "https://pbs.twimg.com/profile_images/1493089732884336641/raqIqWX0_400x400.jpg",
@@ -265,7 +253,7 @@
     "fanArtHashTag": "#ノエラート"
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "宝鐘マリン",
     "twitterScreenName": "houshoumarine",
     "imageUrl": "https://pbs.twimg.com/profile_images/1444628572044345348/cmZBTTnO_400x400.jpg",
@@ -277,7 +265,7 @@
     "fanArtHashTag": "#マリンのお宝"
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "天音かなた",
     "twitterScreenName": "amanekanatach",
     "imageUrl": "https://pbs.twimg.com/profile_images/1475125593511710726/A65q3b_h_400x400.jpg",
@@ -289,7 +277,7 @@
     "fanArtHashTag": "#かなたーと"
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "角巻わため",
     "twitterScreenName": "tsunomakiwatame",
     "imageUrl": "https://pbs.twimg.com/profile_images/1476453019533594628/nlicH7B5_400x400.jpg",
@@ -301,7 +289,7 @@
     "fanArtHashTag": "#つのまきあーと"
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "常闇トワ",
     "twitterScreenName": "tokoyamitowa",
     "imageUrl": "https://pbs.twimg.com/profile_images/1494959883120103425/3co_uOBB_400x400.jpg",
@@ -313,7 +301,7 @@
     "fanArtHashTag": "#TOWART"
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "姫森ルーナ",
     "twitterScreenName": "himemoriluna",
     "imageUrl": "https://pbs.twimg.com/profile_images/1493645488608149506/fkBUbdgy_400x400.jpg",
@@ -325,7 +313,7 @@
     "fanArtHashTag": "#ルーナート"
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "雪花ラミィ",
     "twitterScreenName": "yukihanalamy",
     "imageUrl": "https://pbs.twimg.com/profile_images/1490924732434190336/3dUzM40O_400x400.jpg",
@@ -337,7 +325,7 @@
     "fanArtHashTag": "#LamyArt"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "桃鈴ねね",
     "twitterScreenName": "momosuzunene",
     "imageUrl": "https://pbs.twimg.com/profile_images/1443800020315099140/wyOyldPU_400x400.jpg",
@@ -349,7 +337,7 @@
     "fanArtHashTag": "#ねねアルバム"
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "獅白ぼたん",
     "twitterScreenName": "shishirobotan",
     "imageUrl": "https://pbs.twimg.com/profile_images/1473239135628718080/aFtef9ci_400x400.jpg",
@@ -361,7 +349,7 @@
     "fanArtHashTag": "#ししらーと"
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "尾丸ポルカ",
     "twitterScreenName": "omarupolka",
     "imageUrl": "https://pbs.twimg.com/profile_images/1465301638571524096/2mOcF_4x_400x400.jpg",
@@ -373,7 +361,7 @@
     "fanArtHashTag": "#絵まる"
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "ラプラス・ダークネス",
     "twitterScreenName": "LaplusDarknesss",
     "imageUrl": "https://pbs.twimg.com/profile_images/1474622309143298055/zKdbz5ic_400x400.jpg",
@@ -385,7 +373,7 @@
     "fanArtHashTag": "#Laplus_Artdesu"
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "鷹嶺ルイ",
     "twitterScreenName": "takanelui",
     "imageUrl": "https://pbs.twimg.com/profile_images/1490978285396062209/2XZQ52T2_400x400.jpg",
@@ -397,7 +385,7 @@
     "fanArtHashTag": "#Luillust"
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "博衣こより",
     "twitterScreenName": "hakuikoyori",
     "imageUrl": "https://pbs.twimg.com/profile_images/1473580421632106498/B2e_6u9B_400x400.jpg",
@@ -409,7 +397,7 @@
     "fanArtHashTag": "#こよりすけっち"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "沙花叉クロヱ",
     "twitterScreenName": "sakamatachloe",
     "imageUrl": "https://pbs.twimg.com/profile_images/1465357823525933056/LOzP1kx1_400x400.jpg",
@@ -421,7 +409,7 @@
     "fanArtHashTag": "#さかまた飼育日記 "
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "風真いろは",
     "twitterScreenName": "kazamairohach",
     "imageUrl": "https://pbs.twimg.com/profile_images/1465702273305427968/Jfq79-Lk_400x400.jpg",
