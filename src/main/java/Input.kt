@@ -2,6 +2,8 @@ import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import okio.Okio
+import okio.buffer
+import okio.source
 import java.io.File
 import java.net.URL
 
@@ -36,7 +38,7 @@ class InputImpl : Input {
             .build().adapter<List<InputHololiver>>(type)
 
         val bufferedInputStream = this.javaClass.classLoader.getResourceAsStream("MasterData.json").buffered()
-        val bufferedSource = Okio.buffer(Okio.source(bufferedInputStream))
+        val bufferedSource = bufferedInputStream.source().buffer()
         val json = adapter.fromJson(bufferedSource)
 
         return json!!

@@ -21,6 +21,8 @@ dependencies {
     implementation 'com.squareup.moshi:moshi:1.9.3'
     implementation 'com.squareup.moshi:moshi-kotlin:1.9.3'
 
+    implementation group: 'com.squareup.okio', name: 'okio', version: '2.10.0'
+
     testImplementation 'junit:junit:4.12'
     testImplementation "com.google.truth:truth:1.0.1"
 }
